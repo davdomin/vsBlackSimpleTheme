@@ -1,7 +1,7 @@
 {
   "name": "vs-black-simple-theme",
   "displayName": "vsBlackSimpleTheme",
-  "description": "Un tema oscuro minimalista y simple para programadores",
+  "description": "A minimalist, distraction-free pure black theme for focused coding.",
   "version": "0.0.1",
   "publisher": "davdomin",
   "engines": {
