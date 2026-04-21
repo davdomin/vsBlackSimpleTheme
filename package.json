@@ -1,0 +1,26 @@
+{
+  "name": "vs-black-simple-theme",
+  "displayName": "vsBlackSimpleTheme",
+  "description": "Un tema oscuro minimalista y simple para programadores",
+  "version": "0.0.1",
+  "publisher": "davdomin",
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "vsBlackSimpleTheme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/vsBlackSimpleTheme-color-theme.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/davdomin/vsBlackSimpleTheme"
+  }
+}
