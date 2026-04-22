@@ -2,7 +2,7 @@
   "name": "vs-black-simple-theme",
   "displayName": "vsBlackSimpleTheme",
   "description": "A minimalist, distraction-free pure black theme for focused coding.",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "publisher": "davdomin",
   "engines": {
     "vscode": "^1.70.0"
